@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Constraintlayout</string>
+    <string name="staring_cat_say">喵喵</string>
+    <string name="change_text_size">大一點謝謝</string>
+</resources>

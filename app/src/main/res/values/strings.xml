@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Constraintlayout</string>
+    <string name="staring_cat_say">meow</string>
+    <string name="change_text_size">larger please</string>
+</resources>
